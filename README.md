@@ -1,8 +1,7 @@
-<h1 align="center">Olá! Meu nome é Roberta Stumpf.</h1>
-
-<br>
-
 <div align="center">
+
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CED1&size=35&center=true&vCenter=true&width=1000&lines=Olá!+eu+me+chamo+Roberta;)](https://git.io/typing-svg)
+   
   
 🔭 Formada em Desenvolvimento Fullstack. |
 🌱 Atualmente estudando C# e React. |
