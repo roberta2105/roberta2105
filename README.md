@@ -4,7 +4,7 @@
    
   
 🔭 Desenvolvedora FullStack na T2M |
-🌱 Atualmente estudando C# e React. |
+🌱 Atualmente estudando C# e desenvolvimento web. |
 💬 robertamdstumpf@gmail.com
 
 <br>
